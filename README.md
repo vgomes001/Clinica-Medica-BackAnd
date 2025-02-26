@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src="https://github.com/user-attachments/assets/1af2db85-af1a-4225-ad03-1e091cf09450" width="30px" />
+  <img src="https://github.com/user-attachments/assets/1af2db85-af1a-4225-ad03-1e091cf09450" width="200px" />
 <p> VOLLMED - SUA SAÚDE É NOSSA MISSÃO! 👨‍⚕️🏥</p>
 </h1>
 
