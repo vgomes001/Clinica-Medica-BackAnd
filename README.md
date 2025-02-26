@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src="https://img.freepik.com/vetores-premium/ilustracao-de-medico-de-conceito_598748-175.jpg?w=996)" />
+  <img src="https://github.com/user-attachments/assets/1af2db85-af1a-4225-ad03-1e091cf09450" width="30px" />
 <p> VOLLMED - SUA SAÚDE É NOSSA MISSÃO! 👨‍⚕️🏥</p>
 </h1>
 
