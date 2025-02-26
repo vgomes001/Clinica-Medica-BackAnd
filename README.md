@@ -11,6 +11,9 @@
 ## Técnologias usadas no Back And
 
 **Linguagem:** JAVA
+<hr>
 **Framework:** Spring Boot
+<hr>
 **Banco de Dados:** MySQL
+<hr>
 **Ferramentas auxiliares:** Insomnia (Testes de APIs)
