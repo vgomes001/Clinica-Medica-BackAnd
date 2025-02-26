@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5072571-moderno-saude-clinica-logo-vetor.jpg" />
+  <img src="https://img.freepik.com/vetores-premium/ilustracao-de-medico-de-conceito_598748-175.jpg?w=996)" />
 <p> VOLLMED - SUA SAÚDE É NOSSA MISSÃO! 👨‍⚕️🏥</p>
 </h1>
 
