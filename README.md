@@ -5,7 +5,7 @@
 
 ## Sobre o projeto
 
-**Vollmed** é um projeto desenvolvido com objetivo de auxiliar no cadastro de médicos e pacientes em uma clínica médica que recebeu o nome de VOLLMED. Com um back and desenvolvido em linguagem JAVA e o framework Spring Boot para criação de uma API Rest, além da integração com o MySQL para o gerenciamento e armazenamento dos dados e o uso do INSOMNIA para realização dos testes da API.
+**Vollmed** é um projeto desenvolvido com objetivo de auxiliar no cadastro de médicos e pacientes em uma clínica médica que recebeu o nome de VOLLMED. Com um back and desenvolvido em linguagem JAVA e o framework Spring Boot para criação de uma API Rest, além da integração com o MySQL para o gerenciamento e armazenamento dos dados dos médicos e pacientes e o uso do INSOMNIA para realização dos testes da API.
 
 <hr>
 
