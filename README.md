@@ -11,10 +11,10 @@
 
 ## Técnologias usadas no Back End
 
-**Linguagem:** JAVA
+**Linguagem:** JAVA 20
 
-**Framework:** Spring Boot
+**Framework:** Spring Boot 3 e Spring Data JPA 
 
-**Banco de Dados:** MySQL
+**Banco de Dados:** MySQL 8
 
 **Ferramentas auxiliares:** Insomnia (Testes de APIs)
