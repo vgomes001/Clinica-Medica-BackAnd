@@ -7,13 +7,14 @@
 
 **Vollmed** é um projeto sobre uma desenvolvido com objetivo de auxiliar no cadastro de médicos e pacientes na clínica com um MENU, ARÉA DE CADASTRO e ÁREA DE LISTAGEM DOS MÉDICOS CADASTRADOS.
 
+<hr>
 
 ## Técnologias usadas no Back And
 
 **Linguagem:** JAVA
-<hr>
+
 **Framework:** Spring Boot
-<hr>
+
 **Banco de Dados:** MySQL
-<hr>
+
 **Ferramentas auxiliares:** Insomnia (Testes de APIs)
