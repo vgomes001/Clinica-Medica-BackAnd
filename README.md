@@ -5,7 +5,7 @@
 
 ## Sobre o projeto
 
-**Vollmed** é um projeto sobre uma desenvolvido com objetivo de auxiliar no cadastro de médicos e pacientes na clínica com um MENU, ARÉA DE CADASTRO e ÁREA DE LISTAGEM DOS MÉDICOS CADASTRADOS.
+**Vollmed** é um projeto desenvolvido com objetivo de auxiliar no cadastro de médicos e pacientes na clínica com um MENU, ARÉA DE CADASTRO e ÁREA DE LISTAGEM DOS MÉDICOS CADASTRADOS.
 
 <hr>
 
